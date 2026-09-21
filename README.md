@@ -1,7 +1,7 @@
 # Hey, I'm Ritesh 👋
 
 Computer Science & Technology undergraduate at **CMR University**, Bengaluru.  
-Focused on native **Android development (Kotlin)** and **modern web applications (React.js)**. Currently building full-stack software and working on client-driven projects.
+Focused on native **Android development** and **modern web applications**. Currently building full-stack software and working on client-driven projects.
 
 ---
 
