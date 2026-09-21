@@ -16,7 +16,7 @@ Focused on native **Android development (Kotlin)** and **modern web applications
 
 ### 🚀 What I'm Building
 
-#### **REM Real Estate — Cross-Platform Property & Investment Platform**
+#### **REM Real Estate — Cross-Platform PropertyListing App & Website**
 *A production-ready platform featuring a native Android app and a responsive React web portal built for a real estate builder.*
 
 **Technical Highlights & Engineering Complexities:**
@@ -39,6 +39,6 @@ Focused on native **Android development (Kotlin)** and **modern web applications
 ---
 
 ### 📬 Get in Touch
-- **Email:** riteshbw.dev@gmail.com *(or your preferred email)*
-- **LinkedIn:** [linkedin.com/in/riteshbw](https://linkedin.com)
+- **Email:** riteshbw@gmail.com
+- **LinkedIn:** www.linkedin.com/in/riteshbw
 - **Location:** Bengaluru, Karnataka, India
