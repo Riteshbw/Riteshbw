@@ -16,7 +16,7 @@ Focused on native **Android development** and **modern web applications**. Curre
 
 ### 🚀 What I'm Building
 
-#### **REM Real Estate — Cross-Platform PropertyListing App & Website**
+#### **REM Real Estate — Cross-Platform Property Listing App & Website**
 *A production-ready platform featuring a native Android app and a responsive React web portal built for a real estate builder.*
 
 **Technical Highlights & Engineering Complexities:**
