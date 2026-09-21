@@ -29,15 +29,6 @@ Focused on native **Android development** and **modern web applications**. Curre
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riteshbw&show_icons=true&theme=default&hide_border=true" alt="Ritesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshbw&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Get in Touch
 - **Email:** riteshbw@gmail.com
 - **LinkedIn:** www.linkedin.com/in/riteshbw
