@@ -30,6 +30,6 @@ Focused on native **Android development** and **modern web applications**. Curre
 ---
 
 ### 📬 Get in Touch
-- **Email:** riteshbw@gmail.com
+- **Email:** bwritesh@gmail.com
 - **LinkedIn:** www.linkedin.com/in/riteshbw
 - **Location:** Bengaluru, Karnataka, India
